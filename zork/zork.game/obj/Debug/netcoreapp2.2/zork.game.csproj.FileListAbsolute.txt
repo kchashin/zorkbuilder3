@@ -1,0 +1,141 @@
+C:\Users\ka893002\source\repos\zork\zork.builder\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\ka893002\source\repos\zork\zork.builder\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\source\repos\zork\zork.builder\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\ka893002\source\repos\zork\zork.builder\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\ka893002\source\repos\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\ka893002\source\repos\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\ka893002\Documents\GitHub\zorkbuilder\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\Zork.json
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.deps.json
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.json
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.runtimeconfig.dev.json
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.game.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp2.2\zork.common.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csprojAssemblyReference.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfoInputs.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.AssemblyInfo.cs
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.csproj.CopyComplete
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp2.2\zork.game.pdb

@@ -1,0 +1,182 @@
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.Form1.resources
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.Properties.Resources.resources
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\source\repos\Zorkbuilder\bin\Debug\Zorkbuilder.exe.config
+C:\Users\ka893002\source\repos\Zorkbuilder\bin\Debug\Zorkbuilder.exe
+C:\Users\ka893002\source\repos\Zorkbuilder\bin\Debug\Zorkbuilder.pdb
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.exe
+C:\Users\ka893002\source\repos\Zorkbuilder\obj\Debug\Zorkbuilder.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe.config
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.Properties.Resources.resources
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.exe
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.Properties.Resources.resources
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.exe
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe.config
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe.config
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.pdb
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.Properties.Resources.resources
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.exe
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.pdb
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe.config
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.pdb
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.Properties.Resources.resources
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.exe
+C:\Users\mo870937\Desktop\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe.config
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.exe
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.builder.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.Properties.Resources.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.exe
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Control.NeighborControl.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe.config
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Control.NeighborControl.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Properties.Resources.resources
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.exe
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe.config
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Control.NeighborControl.resources
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Properties.Resources.resources
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.exe
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe.config
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Control.NeighborControl.resources
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.forms.AddRoomForm.resources
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Properties.Resources.resources
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.exe
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.pdb
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe.config
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.pdb
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Control.NeighborControl.resources
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.forms.AddRoomForm.resources
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Properties.Resources.resources
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.exe
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe.config
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.exe
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Zorkbuilder.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\zork.common.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csprojAssemblyReference.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.about.resources
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Control.NeighborControl.resources
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\zork.builder.forms.AddRoomForm.resources
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.MainForm.resources
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.Properties.Resources.resources
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.GenerateResource.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.Fody.CopyLocal.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.csproj.CopyComplete
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.exe
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\Zorkbuilder\obj\Debug\Zorkbuilder.pdb

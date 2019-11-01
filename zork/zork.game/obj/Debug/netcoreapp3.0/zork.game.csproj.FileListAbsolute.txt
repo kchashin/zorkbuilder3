@@ -1,0 +1,17 @@
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\Zork.json
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.game.exe
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.game.deps.json
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.game.runtimeconfig.json
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.game.runtimeconfig.dev.json
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.game.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.game.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.common.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\bin\Debug\netcoreapp3.0\zork.common.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.csprojAssemblyReference.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.AssemblyInfoInputs.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.AssemblyInfo.cs
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.csproj.Fody.CopyLocal.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.csproj.CopyComplete
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.game\obj\Debug\netcoreapp3.0\zork.game.pdb

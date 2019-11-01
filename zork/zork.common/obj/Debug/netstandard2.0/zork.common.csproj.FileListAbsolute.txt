@@ -1,0 +1,92 @@
+C:\Users\ka893002\source\repos\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\ka893002\source\repos\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\source\repos\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\ka893002\source\repos\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\ka893002\source\repos\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\ka893002\source\repos\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\ka893002\source\repos\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\ka893002\source\repos\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\ka893002\source\repos\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\katie\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mo870937\Documents\GitHub\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Desktop\gdriv\ZorkiePie\GDRIVEUp\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.CoreCompileInputs.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\mo870937\Desktop\Zork\New folder\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\Katie's gaming lappy\Downloads\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\mgrav\Desktop\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.deps.json
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\bin\Debug\netstandard2.0\zork.common.pdb
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csprojAssemblyReference.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.CoreCompileInputs.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfoInputs.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.AssemblyInfo.cs
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.csproj.Fody.CopyLocal.cache
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.dll
+C:\Users\ka893002\Downloads\NewZork\NewZork\zorkbuildercurrent\zorkbuilder2\zork\zork.common\obj\Debug\netstandard2.0\zork.common.pdb
